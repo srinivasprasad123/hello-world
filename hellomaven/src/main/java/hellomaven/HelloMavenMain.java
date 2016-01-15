@@ -10,6 +10,7 @@ public class HelloMavenMain {
 		Logger logger = LoggerFactory.getLogger(HelloMavenMain.class);
 		logger.info("Hello Maven!");
 		logger.info("Hello New!");
+		logger.info("Hello New 1!");
 
 
 	}
