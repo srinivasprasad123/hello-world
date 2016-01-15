@@ -9,6 +9,7 @@ public class HelloMavenMain {
 		// TODO Auto-generated method stub
 		Logger logger = LoggerFactory.getLogger(HelloMavenMain.class);
 		logger.info("Hello Maven!");
+		logger.info("Hello New!");
 
 
 	}
