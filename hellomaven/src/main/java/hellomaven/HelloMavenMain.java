@@ -12,6 +12,7 @@ public class HelloMavenMain {
 		logger.info("Hello New!");
 		logger.info("Hello New 1!");
 		logger.info("Hello New 2!");
+		logger.info("Hello New 3!");
 
 
 	}
